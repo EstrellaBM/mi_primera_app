@@ -7,9 +7,7 @@ export default function App() {
       <Text style={styles.title}> Mi Primera App!!</Text>
       <Button
         title="Presioname"
-        onPress={() => {
-          alert("Hola desde React Native!");
-        }}
+        onPress={() => alert("Hola desde React Native!")}
       />
     </View>
   );
