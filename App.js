@@ -22,4 +22,9 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
+  title: {
+    fonySize: 24,
+    fontWeight: "bold",
+    color: "#333",
+  },
 });
