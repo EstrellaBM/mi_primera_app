@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, Button } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Mi Primera App!</Text>
+      <Text>Mi Primera App!!</Text>
       <Button
         title="Presioname"
         onPress={() => {
